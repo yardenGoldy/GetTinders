@@ -1,0 +1,11 @@
+C:\Git\GetTinders\bin\Debug\netcoreapp2.1\GetTinders.deps.json
+C:\Git\GetTinders\bin\Debug\netcoreapp2.1\GetTinders.runtimeconfig.json
+C:\Git\GetTinders\bin\Debug\netcoreapp2.1\GetTinders.runtimeconfig.dev.json
+C:\Git\GetTinders\bin\Debug\netcoreapp2.1\GetTinders.dll
+C:\Git\GetTinders\bin\Debug\netcoreapp2.1\GetTinders.pdb
+C:\Git\GetTinders\obj\Debug\netcoreapp2.1\GetTinders.csprojAssemblyReference.cache
+C:\Git\GetTinders\obj\Debug\netcoreapp2.1\GetTinders.csproj.CoreCompileInputs.cache
+C:\Git\GetTinders\obj\Debug\netcoreapp2.1\GetTinders.AssemblyInfoInputs.cache
+C:\Git\GetTinders\obj\Debug\netcoreapp2.1\GetTinders.AssemblyInfo.cs
+C:\Git\GetTinders\obj\Debug\netcoreapp2.1\GetTinders.dll
+C:\Git\GetTinders\obj\Debug\netcoreapp2.1\GetTinders.pdb
